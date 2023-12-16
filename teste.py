@@ -72,4 +72,5 @@ while jogo_ativo:
     pygame.display.update()
 
 # Encerra o Pygame
+# Encerra o Pygame
 pygame.quit()
